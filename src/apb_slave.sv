@@ -90,5 +90,4 @@ module apb_slave (
             $display("");
         end
     endfunction
-
 endmodule
