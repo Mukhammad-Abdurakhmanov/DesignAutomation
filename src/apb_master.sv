@@ -137,5 +137,4 @@ module apb_master (
             $display("");
         end
     endtask
-
 endmodule
