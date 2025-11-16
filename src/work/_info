@@ -1,0 +1,72 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Asus\PycharmProjects\AdamKuha\DesignAutomation\src
+vapb_master
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 IMER9cF;J1IQURV_OM=_oZ3
+Z3 VJj0U3V@Pmj0VA0T50g3>92
+Z4 !s105 apb_master_sv_unit
+S1
+Z5 dC:\Users\Asus\PycharmProjects\AdamKuha\DesignAutomation\src
+Z6 w1763307260
+Z7 8apb_master.sv
+Z8 Fapb_master.sv
+L0 3
+Z9 OV;L;10.1d;51
+r1
+31
+Z10 o-sv -O0
+!i10b 1
+Z11 !s100 9ClcZKICfGYP5mHk7d@nG0
+!s85 0
+Z12 !s108 1763307889.007000
+Z13 !s107 apb_master.sv|
+Z14 !s90 -reportprogress|300|-sv|apb_master.sv|
+!s101 -O0
+vapb_slave
+R1
+!i10b 1
+!s100 zI5Wn@lfkQ8nVSE4@?A][1
+I:e9AN01mRbbJ]>YUz=A9[1
+Z15 VbT^Ja`88=R^7fbU?ogYoC2
+Z16 !s105 apb_slave_sv_unit
+S1
+R5
+Z17 w1763307268
+8apb_slave.sv
+Fapb_slave.sv
+L0 3
+R9
+r1
+!s85 0
+31
+!s108 1763307889.071000
+!s107 apb_slave.sv|
+!s90 -reportprogress|300|-sv|apb_slave.sv|
+!s101 -O0
+R10
+vTestbench
+R1
+Z18 !s100 GcJaRh^EeN3I39eNab_Ra0
+Z19 IE7?`o@N^[7gOGJ8KmbLHD0
+Z20 VGdUiEZgaMiVEi@bgHJeE13
+Z21 !s105 top_tb_sv_unit
+S1
+R5
+Z22 w1763307665
+Z23 8C:/Users/Asus/PycharmProjects/AdamKuha/DesignAutomation/src/top_tb.sv
+Z24 FC:/Users/Asus/PycharmProjects/AdamKuha/DesignAutomation/src/top_tb.sv
+L0 3
+R9
+r1
+31
+Z25 !s90 -reportprogress|300|-work|work|C:/Users/Asus/PycharmProjects/AdamKuha/DesignAutomation/src/top_tb.sv|
+Z26 o-work work -O0
+Z27 n@testbench
+Z28 !s108 1763307878.173000
+Z29 !s107 C:/Users/Asus/PycharmProjects/AdamKuha/DesignAutomation/src/top_tb.sv|
+!i10b 1
+!s85 0
+!s101 -O0
