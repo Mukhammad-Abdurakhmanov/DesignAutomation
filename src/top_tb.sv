@@ -170,5 +170,4 @@ module Testbench;
         $display("");
         $finish;
     end
-
 endmodule
